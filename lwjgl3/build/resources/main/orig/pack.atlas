@@ -1,0 +1,47 @@
+pack.png
+	size: 2048, 2048
+	filter: Linear, Linear
+987db9be01627baef1c4b6ff94544018
+	bounds: 1, 1030, 1216, 832
+Exit
+	bounds: 58, 63, 51, 50
+Homeoff
+	bounds: 1989, 1811, 51, 51
+Homeon
+	bounds: 1154, 977, 53, 51
+LevelSelector
+	bounds: 1, 421, 1080, 607
+NoImage
+	bounds: 1274, 1132, 49, 47
+PlayDark
+	bounds: 1, 115, 663, 304
+PlayLight
+	bounds: 1219, 1559, 697, 303
+Resumeoff
+	bounds: 1083, 903, 53, 52
+Resumeon
+	bounds: 1918, 1738, 53, 51
+Settings_Dark
+	bounds: 1601, 1246, 309, 311
+Settings_Light
+	bounds: 666, 121, 304, 298
+SoundOn
+	bounds: 1219, 1123, 53, 56
+backButton
+	bounds: 1219, 1071, 50, 50
+cross
+	bounds: 1083, 957, 69, 71
+l1
+	bounds: 1219, 1181, 380, 376
+levelsOn
+	bounds: 1601, 1192, 53, 52
+levelsoff
+	bounds: 1, 1, 51, 51
+restartOff
+	bounds: 1, 54, 55, 59
+restartOn
+	bounds: 972, 367, 53, 52
+tick
+	bounds: 1918, 1791, 69, 71
+white-pixel
+	bounds: 1912, 1556, 1, 1

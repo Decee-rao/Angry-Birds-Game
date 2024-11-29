@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AngryBirdTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-11-28T18:49:34" hostname="DESKTOP-GO45VB5" time="1.243">
+  <properties/>
+  <testcase name="testBlockFunctionality()" classname="AngryBirdTest" time="1.05"/>
+  <testcase name="testLevelScoreIncreaseOnPigDeath()" classname="AngryBirdTest" time="0.154"/>
+  <testcase name="testInitialization()" classname="AngryBirdTest" time="0.006"/>
+  <testcase name="testBlockInitialization()" classname="AngryBirdTest" time="0.004"/>
+  <testcase name="testPigCreation()" classname="AngryBirdTest" time="0.015"/>
+  <system-out><![CDATA[1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
